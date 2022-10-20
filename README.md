@@ -1,1 +1,3 @@
 # gitflow-example
+
+Rinalds Pikše
